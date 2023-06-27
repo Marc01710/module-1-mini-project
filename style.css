@@ -106,9 +106,13 @@ button {
 /* Class Selectors */
 .text-center {
     text-align: center;
-    margin: 5px;
 }
 
 .text-right {
     text-align: right;
+}
+
+#button-center {
+    text-align: center;
+    margin: 13px;
 }
